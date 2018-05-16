@@ -1,0 +1,2 @@
+Trzeba pobrac QT i zainstalowac tylko dodatek 5.10
+Takze tzreba pobrac qt VS tools 
