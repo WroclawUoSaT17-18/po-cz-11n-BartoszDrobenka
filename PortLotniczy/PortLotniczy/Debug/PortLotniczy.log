@@ -1,12 +1,7 @@
-﻿  Moc'ing PortLotniczy.h...
-  Rcc'ing PortLotniczy.qrc...
-  Uic'ing PortLotniczy.ui...
-  RCC: Warning: No resources in 'C:\Users\Student236235\Desktop\PortLotniczy\PortLotniczy\PortLotniczy.qrc'.
+﻿  moc_PortLotniczy.cpp
   Infornacje.cpp
   Lot.cpp
-  main.cpp
   PortLotniczy.cpp
+c:\users\mat\source\repos\portlotniczy\portlotniczy\infornacje.cpp(33): error C4716: "Informacje::zmien_cene": musi zwracać wartość
   Spis_Loty.cpp
-  moc_PortLotniczy.cpp
-  qrc_PortLotniczy.cpp
-  PortLotniczy.vcxproj -> C:\Users\Student236235\Desktop\PortLotniczy\Win32\Debug\PortLotniczy.exe
+  main.cpp

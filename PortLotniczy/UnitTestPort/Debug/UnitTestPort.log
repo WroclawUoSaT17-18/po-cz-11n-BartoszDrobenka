@@ -1,0 +1,4 @@
+﻿  unittest1.cpp
+     Trwa tworzenie biblioteki C:\Users\Mat\source\repos\PortLotniczy\Debug\UnitTestPort.lib i obiektu C:\Users\Mat\source\repos\PortLotniczy\Debug\UnitTestPort.exp
+unittest1.obj : error LNK2019: nierozpoznany zewn黎rzny symbol "public: int __thiscall Informacje::zmien_cene(int)" (?zmien_cene@Informacje@@QAEHH@Z) przywoｳany w funkcji "public: void __thiscall UnitTestPort::UnitTest1::TestZmienCene(void)" (?TestZmienCene@UnitTest1@UnitTestPort@@QAEXXZ)
+C:\Users\Mat\source\repos\PortLotniczy\Debug\UnitTestPort.dll : fatal error LNK1120: liczba nierozpoznanych element zewn黎rznych: 1

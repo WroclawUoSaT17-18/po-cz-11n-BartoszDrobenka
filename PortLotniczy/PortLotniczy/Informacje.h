@@ -1,6 +1,8 @@
 ﻿
 
 #pragma once
+#ifndef INFORMACJE_H
+#define INFORMACJE_H
 #include <iostream>
 #include <string>
 
@@ -18,13 +20,15 @@ protected:
 	double czas;
 public:
 	// funkcje dostepowe
+
 	string zwroc_godzine(int i);
 	string zwroc_miasto(int i);
 	string zwroc_data(int i);   // funkcje zwracajace 
 
-	void zmien_cene(int cena);
+	int zmien_cene(int cena) { this->cena = cena;  return 1; };
 	void zmien_czas(int czas); // funkcje zmieniajace
 
 	int zwroc_cene();
 	int zwroc_czas();
 };
+#endif
